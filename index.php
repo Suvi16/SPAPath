@@ -1,10 +1,10 @@
-<?php include('src/config.php') ?>
+<?php include('src/config.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>SPA Pathcare : Home</title>
-    <?php include('src/head.php') ?>
+    <?php include('src/head.php'); ?>
 </head>
 
 <body>
