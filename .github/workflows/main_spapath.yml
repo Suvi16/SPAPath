@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'SPAPath'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F727674DB4C1488A878A33B0F4332F95 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F197379A7CF849949D5AF81EA19E9317 }}
           package: .
